@@ -17,6 +17,9 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.11.1"
 # Everything below here is alphabetically sorted
+openai = "^0.27.9"
+beeware = "^0.3.0"
+briefcase = "^0.3.15"
 
 [tool.poetry.dev-dependencies]
 # Everything below here is alphabetically sorted
