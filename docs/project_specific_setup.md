@@ -10,6 +10,3 @@ us to keep other docs easily aligned with future upstream changes to
 ```sh
 # brew install wkhtmltopdf
 ```
-
-
-

@@ -23,4 +23,3 @@ BeeWare (cross-platform hopefully) app which allows to solve manifold.markets gp
    [Poetry](https://python-poetry.org/).
 4. See [docs/detect_secrets.md](docs/detect_secrets.md) for more on creating a `.secrets.baseline`
    file using [detect-secrets](https://github.com/Yelp/detect-secrets).
-

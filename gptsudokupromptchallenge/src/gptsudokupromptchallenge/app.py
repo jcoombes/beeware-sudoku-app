@@ -1,13 +1,12 @@
 """
 Android app to find prompt which allows gpt-4 to solve sudoku
 """
+from __future__ import annotations
+
 import toga
-from toga.style import Pack
-from toga.style.pack import COLUMN, ROW
 
 
 class GPTSudokuPromptChallenge(toga.App):
-
     def startup(self):
         """
         Construct and show the Toga application.
